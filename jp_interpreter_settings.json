@@ -1,0 +1,19 @@
+{
+  "theme": "cyborg",
+  "window_width": 900,
+  "window_height": 600,
+  "window_maximized": false,
+  "confidence_threshold": 0.2,
+  "include_non_japanese": false,
+  "use_gpu": false,
+  "auto_copy": false,
+  "save_history": true,
+  "show_confidence": false,
+  "show_processing_time": true,
+  "last_browse_directory": "",
+  "default_save_format": "txt",
+  "max_history_items": 100,
+  "auto_clear_results": false,
+  "show_tooltips": true,
+  "settings_version": "1.0"
+}
